@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Problem+Solver;DS%20|%20Algorithms%20|%20OOP%20;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <p align = "center">
-- 🔭 I’m currently working on **MERN**<br><br>
+- 🔭 I’m currently working on <b>MERN</b><br><br>
 - 🌱 I’m currently learning **MERN STACK**<br><br>
 - 💬 Ask me about **Android,Cpp,Java,Firebase**<br><br>
 - 📫 How to reach me **ksanket114402@gmail.com**<br><br>
